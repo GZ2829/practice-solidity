@@ -1,0 +1,11 @@
+{
+  "name": "prac",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:GZ2829/practice-solidity.git",
+  "author": "gz2829 <gzucchero24@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.3"
+  }
+}
